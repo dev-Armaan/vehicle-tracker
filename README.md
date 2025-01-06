@@ -9,6 +9,8 @@ NOTE: Adjust the SOURCE and TARGET configuration if you plan to run a speed esti
 
 ## Demo
 
+<video src="data/Raw%20vs.%20Processed%20Footage.mp4" controls width="800"></video>
+
 Click [here](https://youtu.be/S-3mQ_zNbvw) to see a video of the model in action. The demo uses US Interstate Highway footage and compares the raw vs. processed footage side-by-side.
 
 ## :computer: Installation
