@@ -39,9 +39,9 @@ python3.11 video_downloader.py
 
 `target_video_path:` Required. The path to save the output video with annotations. If not specified, the processed video will be displayed in real-time without being saved.
 
-`confidence_threshold (optional):` Sets the confidence threshold for the YOLO model to filter detections. Default is 0.3. This determines how confident the model should be to recognize an object in the video.
+`confidence_threshold:` (optional) Sets the confidence threshold for the YOLO model to filter detections. Default is 0.3. This determines how confident the model should be to recognize an object in the video.
 
-`iou_threshold (optional):` Specifies the IOU (Intersection Over Union) threshold for the model. Default is 0.7. This value is used to manage object detection accuracy, particularly in distinguishing between different objects.
+`iou_threshold:` (optional) Specifies the IOU (Intersection Over Union) threshold for the model. Default is 0.7. This value is used to manage object detection accuracy, particularly in distinguishing between different objects.
 
 ## :runner: Run
 
