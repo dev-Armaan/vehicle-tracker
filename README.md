@@ -4,12 +4,13 @@ This model performs speed estimation analysis using technologies such as YOLO, O
 
 The model calculates the instantenous speed of passing vehicles as well as counts the number of vehicles that pass over the duration of the input video. Additionally, it differentiates between semis/trucks (in green) and cars (in peach) for more comprehensive traffic analysis.
 
-NOTE: Adjust the SOURCE and TARGET configuration if you plan to run a speed estimation script on your video file. Those must be adjusted separately for each camera view.
+NOTE: Adjust the `SOURCE` and `TARGET` configuration if you plan to run a speed estimation script on your video file. Those must be adjusted separately for each camera view.
 
 
 ## Demo
 
-<video src="data/Raw%20vs.%20Processed%20Footage.mp4" controls width="800"></video>
+<video src="https://raw.githubusercontent.com/dev-Armaan/vehicle-tracker/main/data/Raw%20vs.%20Processed%20Footage.mp4" controls width="800"></video>
+
 
 Click [here](https://youtu.be/S-3mQ_zNbvw) to see a video of the model in action. The demo uses US Interstate Highway footage and compares the raw vs. processed footage side-by-side.
 
