@@ -9,10 +9,10 @@ NOTE: Adjust the `SOURCE` and `TARGET` configuration if you plan to run a speed 
 
 ## Demo
 
-<video src="https://raw.githubusercontent.com/dev-Armaan/vehicle-tracker/main/data/Raw%20vs.%20Processed%20Footage.mp4" controls width="800"></video>
+https://github.com/user-attachments/assets/0d9fdb1b-6349-4604-8cd0-6e549e4e8978
 
 
-Click [here](https://youtu.be/S-3mQ_zNbvw) to see a video of the model in action. The demo uses US Interstate Highway footage and compares the raw vs. processed footage side-by-side.
+Click [here](https://youtu.be/S-3mQ_zNbvw) to see a longer video of the model in action. The demo uses US Interstate Highway footage and compares the raw vs. processed footage side-by-side.
 
 ## :computer: Installation
 
