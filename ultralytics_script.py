@@ -7,6 +7,9 @@ from ultralytics import YOLO
 
 import supervision as sv
 
+# Note: change this section if you are using a different camera angle!
+
+# From here
 SOURCE = np.array([[1252, 787], [2298, 803], [5039, 2159], [-550, 2159]])
 
 TARGET_WIDTH = 25
@@ -21,6 +24,7 @@ TARGET = np.array(
     ]
 )
 
+# to here
 
 class ViewTransformer:
     def __init__(self, source: np.ndarray, target: np.ndarray) -> None:
