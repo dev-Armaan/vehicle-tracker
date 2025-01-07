@@ -59,7 +59,7 @@ This project integrates two main components, each with its own licensing:
 
 `ultralytics:` The object detection model used here, YOLOv8, is distributed under the [AGPL-3.0 license](https://github.com/ultralytics/ultralytics/blob/main/LICENSE).
 
-`supervision:` The analytics code that powers the zone-based analysis in this demo is based on the Supervision library, which is licensed under the [MIT license](https://github.com/roboflow/supervision/blob/develop/LICENSE.md).
+`supervision:` The analytics code that powers the zone-based analysis is based on the Supervision library, which is licensed under the [MIT license](https://github.com/roboflow/supervision/blob/develop/LICENSE.md).
 
 
 
